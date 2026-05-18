@@ -1,66 +1,29 @@
-# Hi there 👋 I'm Zhanetta
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00D9FF&center=true&vCenter=true&width=700&lines=Junior+Developer;Web+Development+Enthusiast;Future+Software+Engineer;Building+Projects+Step+by+Step;Always+Learning+and+Growing+🚀" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=ZHANETTA&fontAlign=50&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Creative%20Thinker%20%7C%20Future%20Software%20Engineer&descAlign=50&descAlignY=60&animation=fadeIn" />
 
----
+<br/>
 
-## ✨ About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=750&lines=Frontend+Developer+%F0%9F%92%BB;Building+Creative+Digital+Experiences+%F0%9F%8E%A8;Passionate+About+UI%2FUX+%F0%9F%92%9C;Always+Learning+New+Things+%F0%9F%9A%80;Future+Software+Engineer+%E2%9C%A8" />
 
-I am a **Junior Developer** who is passionate about creating clean, useful, and user-friendly web applications.  
-I enjoy learning modern technologies, improving my coding skills, and building projects that help me grow as a future software engineer.
+<br/>
 
-- 💻 Focused on **Web Development**
-- 🎯 Interested in **Frontend Development** and modern UI design
-- 🚀 Building practical projects to improve my portfolio
-- 🌱 Constantly learning JavaScript, Git, GitHub, and development tools
-- 📚 Motivated to grow in software engineering and real-world development
+<img src="https://komarev.com/ghpvc/?username=zhanimk&style=for-the-badge&color=blueviolet" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🌌 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
-</p>
+<img align="right" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGQ3MXZ2OHhyMW9qdnZ4bHNmYjB0d2t6d2NnM3E2bW1iN2F3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
----
-
-## 🚀 What I'm Working On
-
-- Building web projects for my portfolio
-- Improving frontend development skills
-- Learning clean code and project structure
-- Practicing Git and GitHub workflow
-- Exploring modern UI/UX principles
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhanimk&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zhanimk&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Goals
-
-- 🌟 Build real-world web applications
-- ⚡ Improve full-stack development skills
-- 🤝 Contribute to open-source projects
-- 📌 Create a strong developer portfolio
-- 🚀 Grow as a confident software developer
-
----
-
-<p align="center">
-  <b>Thanks for visiting my GitHub profile!</b>  
-  <br/>
-  <i>Let's build, learn, and grow together 🚀</i>
-</p>
+```javascript
+const zhanetta = {
+  location: "Kazakhstan 🇰🇿",
+  role: "Junior Developer",
+  focus: "Frontend Development",
+  learning: ["JavaScript", "React", "UI/UX"],
+  hobbies: ["Design", "Startups", "Tech", "Creative Projects"],
+  dream: "Build impactful digital products 🚀"
+};
