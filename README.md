@@ -1,70 +1,47 @@
 <div align="center">
 
-# Hi 👋 I'm Zhanetta
+# ZHANETTA
 
-### Software Engineering Student • Frontend Engineer • Building Modern Web Applications
+**Software Engineering Student • Frontend Developer • AI Enthusiast**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React+Developer;Clean+Code+Advocate;Always+Learning+New+Technologies;Building+Projects+That+Matter" />
+Building modern, scalable and user-focused web applications.
 
-<br>
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+products.;Writing+clean+code.;Learning+every+day.;Open+to+collaboration." />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=zhanimk&style=flat-square&color=blue" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=zhanimk&style=flat-square&color=58A6FF"/>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## ~/whoami
 
-```ts
-class Engineer {
+```bash
+$ whoami
 
-    name = "Zhanetta";
+Name        : Zhanetta
+Location    : Kazakhstan 🇰🇿
+Education   : Software Engineering
+Role        : Frontend Developer
 
-    location = "Kazakhstan 🇰🇿";
+Focus
+├── Frontend Engineering
+├── Modern JavaScript
+├── React Ecosystem
+├── UI/UX
+└── Artificial Intelligence
 
-    role = "Frontend Engineer";
-
-    education = "Software Engineering";
-
-    currentlyLearning = [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Node.js",
-        "System Design"
-    ];
-
-    interests = [
-        "Artificial Intelligence",
-        "Cloud Computing",
-        "UI Engineering",
-        "Software Architecture",
-        "Open Source"
-    ];
-
-    motto() {
-        return "Build software that solves real problems.";
-    }
-}
-
-export default new Engineer();
+Mission
+└── Build software that is clean, scalable and meaningful.
 ```
 
 ---
 
-# 🚀 Current Focus
-
-- Building scalable React applications
-- Improving TypeScript skills
-- Learning backend development with Node.js
-- Studying software architecture and clean code
-- Contributing to open-source projects
-- Preparing for technical interviews
-
----
-
-# 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -84,101 +61,198 @@ export default new Engineer();
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Databases
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode" />
 </p>
 
 ---
 
-# 📈 GitHub Analytics
+## Current Focus
+
+```text
+███████████████████████░░░  React
+
+████████████████████░░░░░░  TypeScript
+
+██████████████████░░░░░░░░  Next.js
+
+████████████████░░░░░░░░░░  Backend
+
+██████████████░░░░░░░░░░░░  Cloud
+
+█████████████░░░░░░░░░░░░░ AI
+```
+
+---
+
+## Engineering Principles
+
+```cpp
+class Engineer {
+
+public:
+
+    void work() {
+
+        WriteCleanCode();
+
+        BuildReusableComponents();
+
+        SolveRealProblems();
+
+        LearnContinuously();
+
+    }
+
+};
+```
+
+---
+
+## GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhanimk&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zhanimk&show_icons=true&hide_border=true&theme=github_dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanimk&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanimk&layout=compact&hide_border=true&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zhanimk&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=zhanimk&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced React Patterns
-- TypeScript Best Practices
-- Software Architecture
-- REST APIs
-- Docker
-- CI/CD
-- AWS Fundamentals
-
----
-
-# 💡 Engineering Principles
-
-✔ Write clean and maintainable code
-
-✔ Build scalable solutions
-
-✔ Prioritize accessibility
-
-✔ Focus on performance
-
-✔ Never stop learning
-
----
-
-# 📂 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| Portfolio Website | Personal portfolio with modern UI | React |
-| Task Management App | Productivity application | React + Node.js |
-| Weather Dashboard | API-based application | JavaScript |
-| E-Commerce UI | Responsive frontend | React + Tailwind |
-
----
-
-# 📊 Activity Graph
+## Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhanimk&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhanimk&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🤝 Let's Connect
+## Featured Projects
 
-<p>
+<table>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<tr>
+
+<td width="50%">
+
+### 🌐 Portfolio
+
+Modern responsive portfolio website.
+
+**React · TailwindCSS**
+
+</td>
+
+<td width="50%">
+
+### ✅ Task Manager
+
+Full-stack productivity application.
+
+**React · Node.js**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Assistant
+
+AI-powered web application.
+
+**OpenAI API**
+
+</td>
+
+<td width="50%">
+
+### 📊 Dashboard
+
+Analytics dashboard with interactive charts.
+
+**TypeScript**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Open Source Mindset
+
+```text
+✔ Build with purpose
+
+✔ Write maintainable code
+
+✔ Keep learning
+
+✔ Share knowledge
+
+✔ Contribute to the community
+```
+
+---
+
+## Connect
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://t.me/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 </p>
 
 ---
 
-> *"Great software is built one thoughtful commit at a time."*
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+```cpp
+while (alive) {
+
+    Learn();
+
+    Build();
+
+    Improve();
+
+}
+```
+
+*"The best software is simple, reliable, and built with intention."*
+
+⭐ Thanks for visiting my profile.
+
+</div>
