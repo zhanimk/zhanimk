@@ -1,47 +1,53 @@
-## 🌐 Portfolio
+<div align="center">
 
-> Modern developer portfolio showcasing my projects, skills, achievements, and experience.
+# ✨ Portfolio
 
-<p align="center">
+### Software Engineer • Frontend Developer • UI Enthusiast
 
-<a href="https://YOUR-PORTFOLIO-LINK">
-<img src="https://img.shields.io/badge/Visit%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+A modern portfolio showcasing selected projects, technical skills, and my journey in software engineering.
+
+<br>
+
+<a href="https://zhanimk.github.io/portfolio/">
+<img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge"/>
 </a>
 
-</p>
+</div>
 
 ---
+
+<div align="center">
 
 ## Tech Stack
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,python,postgres,mongodb,git,github,figma,vscode"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,python,postgres,mongodb,figma,git,github,vscode"/>
-
-</p>
+</div>
 
 ---
+
+<div align="center">
 
 ## Connect
 
-<p align="center">
-
 <a href="https://github.com/zhanimk">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://skillicons.dev/icons?i=github" width="46"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/zhanetta-sigumbay-751ab6313/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="46"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/zhanetta_it/">
-<img src="https://skillicons.dev/icons?i=instagram" width="48"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="46"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-Designed & Developed by <b>Zhanetta Sigumbay</b> ✨
-</p>
+<div align="center">
+
+<sub>Designed & Developed by <strong>Zhanetta Sigumbay</strong></sub>
+
+</div>
