@@ -1,13 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=230&color=0:111813,100:293B24&text=ZHANETTA&fontSize=76&fontColor=D1F36B&fontAlignY=44&desc=DEVELOPER%20%2F%20DESIGNER%20%2F%20DIGITAL%20CREATIVE&descSize=14&descAlignY=70&descColor=E5EBDD" alt="Zhanetta — Developer, Designer, Digital Creative" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=230&color=0:0D1117,100:142D50&text=ZHANETTA&fontSize=76&fontColor=58A6FF&fontAlignY=44&desc=DEVELOPER%20%2F%20DESIGNER%20%2F%20DIGITAL%20CREATIVE&descSize=14&descAlignY=70&descColor=E6EDF3" alt="Zhanetta — Developer, Designer, Digital Creative" />
 
 <br>
 <br>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1200&color=D1F36B&center=true&vCenter=true&width=650&lines=Thoughtful+code.+A+creative+perspective.;From+first+idea+to+final+interface.;Web+development+%C3%97+Design+%C3%97+AI+%C3%97+Media" alt="Thoughtful code. A creative perspective." />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Thoughtful+code.+A+creative+perspective.;From+first+idea+to+final+interface.;Web+development+%C3%97+Design+%C3%97+AI+%C3%97+Media" alt="Thoughtful code. A creative perspective." />
 
 <br>
 
@@ -17,11 +15,11 @@ Based in **Astana, Kazakhstan** · Exploring opportunities in **IT & development
 
 <br>
 
-<a href="https://zhanimk.github.io/portfolio/"><img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-D1F36B?style=for-the-badge&logo=googlechrome&logoColor=172014" alt="View my portfolio" /></a>
+<a href="https://zhanimk.github.io/portfolio/"><img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="View my portfolio" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/zhanetta-sigumbay-751ab6313/"><img src="https://img.shields.io/badge/LET'S_CONNECT-253020?style=for-the-badge&logo=readdotcv&logoColor=D1F36B" alt="Connect on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/zhanetta-sigumbay-751ab6313/"><img src="https://img.shields.io/badge/LET'S_CONNECT-161B22?style=for-the-badge&logo=readdotcv&logoColor=58A6FF" alt="Connect on LinkedIn" /></a>
 &nbsp;
-<a href="https://www.instagram.com/zhanetta_it/"><img src="https://img.shields.io/badge/CREATIVE_SIDE-253020?style=for-the-badge&logo=instagram&logoColor=D1F36B" alt="Instagram" /></a>
+<a href="https://www.instagram.com/zhanetta_it/"><img src="https://img.shields.io/badge/CREATIVE_SIDE-161B22?style=for-the-badge&logo=instagram&logoColor=58A6FF" alt="Instagram" /></a>
 
 <br>
 <br>
@@ -95,6 +93,7 @@ Digital & social content.
 <td width="50%" valign="top">
 
 #### FRONTEND
+
 Building the part people interact with.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&perline=6" alt="HTML, CSS, JavaScript, React, Vite, Tailwind CSS" />
@@ -106,6 +105,7 @@ Building the part people interact with.
 <td width="50%" valign="top">
 
 #### BACKEND & DATA
+
 Connecting application logic and information.
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb&perline=5" alt="Node.js, Express, Python, PostgreSQL, MongoDB" />
@@ -119,6 +119,7 @@ Connecting application logic and information.
 <td width="50%" valign="top">
 
 #### DEVELOPMENT WORKFLOW
+
 Tools for building, testing and shipping.
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&perline=5" alt="Git, GitHub, VS Code, Postman, Vercel" />
@@ -130,6 +131,7 @@ Tools for building, testing and shipping.
 <td width="50%" valign="top">
 
 #### THE CREATIVE DESK
+
 Exploring the visual side of technology.
 
 <img src="https://skillicons.dev/icons?i=figma&perline=1" alt="Figma" />
@@ -164,14 +166,14 @@ A place to apply web development to a concrete problem — connecting interfaces
 
 <br>
 
-<img src="https://img.shields.io/badge/WEB_APPLICATION-253020?style=flat-square&labelColor=253020&color=253020" alt="Web application" />
-<img src="https://img.shields.io/badge/INTERFACE_DEVELOPMENT-253020?style=flat-square" alt="Interface development" />
-<img src="https://img.shields.io/badge/APPLICATION_LOGIC-253020?style=flat-square" alt="Application logic" />
+<img src="https://img.shields.io/badge/WEB_APPLICATION-161B22?style=flat-square" alt="Web application" />
+<img src="https://img.shields.io/badge/INTERFACE_DEVELOPMENT-161B22?style=flat-square" alt="Interface development" />
+<img src="https://img.shields.io/badge/APPLICATION_LOGIC-161B22?style=flat-square" alt="Application logic" />
 
 <br>
 <br>
 
-<a href="https://judo-arena.vercel.app"><img src="https://img.shields.io/badge/EXPLORE_LIVE_PROJECT_%E2%86%97-D1F36B?style=for-the-badge&logo=vercel&logoColor=172014" alt="Explore Judo Arena" /></a>
+<a href="https://judo-arena.vercel.app"><img src="https://img.shields.io/badge/EXPLORE_LIVE_PROJECT_%E2%86%97-58A6FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Explore Judo Arena" /></a>
 
 <br>
 <br>
@@ -199,9 +201,10 @@ A place to apply web development to a concrete problem — connecting interfaces
 **01 &nbsp; / &nbsp; COLLEGE**
 
 ### Astana IT College
+
 **Software Engineering**
 
-Graduated.  
+Graduated.<br>
 A foundation in software development.
 
 </td>
@@ -210,9 +213,10 @@ A foundation in software development.
 **02 &nbsp; / &nbsp; UNIVERSITY**
 
 ### Astana IT University
+
 **Cybersecurity**
 
-Continuing my education.  
+Continuing my education.<br>
 Exploring another dimension of digital systems.
 
 </td>
@@ -236,9 +240,9 @@ and teams where I can contribute and continue to grow.
 
 <br>
 
-<a href="https://www.linkedin.com/in/zhanetta-sigumbay-751ab6313/"><img src="https://img.shields.io/badge/LINKEDIN-Let’s_talk-D1F36B?style=for-the-badge&labelColor=202820" alt="Let's talk on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/zhanetta-sigumbay-751ab6313/"><img src="https://img.shields.io/badge/LINKEDIN-Let’s_talk-58A6FF?style=for-the-badge&labelColor=161B22" alt="Let's talk on LinkedIn" /></a>
 &nbsp;
-<a href="https://www.instagram.com/zhanetta_it/"><img src="https://img.shields.io/badge/INSTAGRAM-Follow_along-D1F36B?style=for-the-badge&labelColor=202820" alt="Follow on Instagram" /></a>
+<a href="https://www.instagram.com/zhanetta_it/"><img src="https://img.shields.io/badge/INSTAGRAM-Follow_along-58A6FF?style=for-the-badge&labelColor=161B22" alt="Follow on Instagram" /></a>
 
 <br>
 <br>
@@ -248,7 +252,7 @@ and teams where I can contribute and continue to grow.
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=D1F36B" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=58A6FF" alt="" />
 
 <sub>ZHANETTA SIGUMBAY &nbsp; / &nbsp; ASTANA, KAZAKHSTAN</sub>
 
